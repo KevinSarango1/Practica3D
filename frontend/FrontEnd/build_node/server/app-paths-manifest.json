@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/producto/page": "app/producto/page.js",
+  "/persona/imagen/page": "app/persona/imagen/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/galeria/page": "app/galeria/page.js",
+  "/sesion/page": "app/sesion/page.js",
+  "/producto/guardar/page": "app/producto/guardar/page.js",
+  "/persona/[external]/page": "app/persona/[external]/page.js"
+}

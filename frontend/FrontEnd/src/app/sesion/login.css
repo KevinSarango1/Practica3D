@@ -1,0 +1,60 @@
+/* Centrar el formulario */
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+}
+
+/* Estilos para las entradas de texto */
+.form-signin input[type="email"],
+.form-signin input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Estilos para el botón de inicio de sesión */
+.form-signin button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+/* Título del formulario */
+.form-signin h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Enlace de términos de uso */
+.form-signin .terms {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.form-signin .terms a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.form-signin .terms a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para los mensajes de error */
+.form-signin .text-xs {
+  color: #ff0000;
+  font-size: 12px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
